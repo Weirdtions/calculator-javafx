@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Calculator-Windows
-          path: target/Calculator-v1.0.0-windows-x64.zip
+          path: target/v1.0.0-windows.zip
